@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">YesItLabQ1</string>
+        <string name="amount_score">%.2f</string>
+        <string name="delivery_price">%.2f</string>
+        <string name="tax_price">%.2f</string>
+        <string name="total_price">%.2f</string>
+
+</resources>
